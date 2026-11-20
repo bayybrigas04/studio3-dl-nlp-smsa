@@ -1,0 +1,11 @@
+cat > .gitignore <<'EOF'
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
+.env
+*.pt
+*.bin
+*.safetensors
+EOF

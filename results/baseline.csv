@@ -1,0 +1,5 @@
+Pembanding,n_train,Akurasi,F1_makro,waktu_latih_s
+"TF-IDF + LogReg, train bersih penuh",10933,0.804,0.7423,5.4
+"TF-IDF + LogReg, subset Transformer",5000,0.75,0.6664,4.8
+Tebakan acak (stratified),10933,0.39,0.3247,
+Selalu kelas mayoritas,10933,0.416,0.1959,
